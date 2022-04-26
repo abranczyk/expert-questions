@@ -22,8 +22,8 @@ title: Expert Questions
 # email: ""
 # description: >- # this means to ignore newlines until "baseurl:"
  # Expert questions to help you get the most out of reading scientific papers.
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/expert-questions/" # the subpath of your site, e.g. /blog
+url: "https://abranczyk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 # github_username:  ""
 
