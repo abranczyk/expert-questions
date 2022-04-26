@@ -24,8 +24,8 @@ title: Expert Questions
  # Expert questions to help you get the most out of reading scientific papers.
 baseurl: "/expert-questions/" # the subpath of your site, e.g. /blog
 url: "https://abranczyk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: ""
-# github_username:  ""
+twitter_username: "agatabranczyk"
+github_username:  "abranczyk"
 
 # Build settings
 theme: minima
