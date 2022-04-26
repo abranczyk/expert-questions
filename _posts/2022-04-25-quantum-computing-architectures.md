@@ -2,7 +2,9 @@
 layout: post
 title:  "Quantum Computing Architectures"
 date:   2022-04-25 20:59:21 -0400
-categories: quantum-computing architechtures
+categories: quantum-computing quantum-computing-architechtures
+tags: quantum-computing quantum-computing-architechtures
+permalink: /quantum-computing-architectures/
 ---
 When reading about quantum computing architectures, keep the following questions in mind:
 
