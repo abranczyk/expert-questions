@@ -1,8 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# Welcome to Expert Questions
 
 In science and technology, each subject asks a unique set of questions that you need to keep in mind as you read research in that field. Knowing what these questions are is a key part of getting the most out of reading research papers.
 
