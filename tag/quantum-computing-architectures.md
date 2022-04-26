@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: quantum-computing-architectures"
+title: "Quantum Computing Architectures"
 tag: quantum-computing-architectures
 exclude: true 
 ---

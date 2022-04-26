@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: quantum-optics"
+title: "Quantum Optics"
 tag: quantum-optics
 exclude: true 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: single-photon-detectors"
+title: "Single Photon Detectors"
 tag: single-photon-detectors
 exclude: true 
 ---
