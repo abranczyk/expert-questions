@@ -10,14 +10,15 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-    A curated collection of "expert questions" on various topics in science and technology to help you get the most out of <a href="https://abranczyk.github.io/expert-questions/how-to-read-research-papers/">reading research papers</a>. 
+    <h2 class="post-list-heading">{{ page.list_title | default: "Welcome to Expert Questions!" }}</h2>
+    In science and technology, each subject asks a unique set of questions that you need to keep in mind as you read research in that field. Knowing what these questions are is a key part of getting the most out of <a href="https://abranczyk.github.io/expert-questions/how-to-read-research-papers/">reading research papers</a>.
+    <br><br>We bring you a curated collection of expert questions in a variety of topics in science and technology.  
     <br><br>
-    <ul class="post-list">
+    <!-- <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -28,9 +29,19 @@ layout: default
         {%- endif -%}
       </li>
       {%- endfor -%}
-    </ul>
+    </ul> -->
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    {% include archive.html %}
+
+    <br>
+    <br>
+    <h2>Contributing</h2>
+    If you would like to propose a new set of expert questions, please do so <a href="https://github.com/abranczyk/expert-questions/issues/new?assignees=abranczyk&labels=question+submission&template=expert-question-submission.md&title=Expert+Questions+Submission">here</a>.
+    <br><br>
+    If you would like to request a set of expert questions on a specific subject, please do so <a href="https://github.com/abranczyk/expert-questions/issues/new">here</a>.
+    <br><br>
+    The subjects can be as broad or as narrow as you like.
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
 
 </div>
