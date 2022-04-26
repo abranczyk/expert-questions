@@ -16,4 +16,4 @@ When reading about single-photon detectors, keep the following questions in mind
 7. How much do they cost? (cheaper is better)
 8. Are they integrated? (yes is better)
 
-*Adapted from Paul Kwiat's CLEO 2020 talk.*
+*Adapted from [Paul Kwiat](http://research.physics.illinois.edu/QI/Photonics/)'s CLEO 2020 talk.*
