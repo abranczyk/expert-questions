@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Quantum Computing Architectures"
-date:   2022-04-25 20:59:21 -0400
 categories: quantum-computing
 tags: all quantum-computing
 permalink: /quantum-computing-architectures/
