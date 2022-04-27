@@ -9,7 +9,7 @@ When reading about quantum software, keep the following questions in mind:
 
 1. Does this software enable using real quantum hardware or only a classical simulator?
 2. In which part of the qauntum software stack does this software belong?
-    - applications (development management)
+    - applications (development, management)
     - algorithms (high level languages, libraries)
     - framework (circuit model & alternatives, optimizing compilers)
     - architecture (QPU kernel, quantum error correction, magic state factories, QRAM) 
