@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Single Photon Detectors"
-date:   2022-04-25 20:59:21 -0400
 categories: quantum-computing quantum-optics single-photon-detectors
 tags: all quantum-computing quantum-optics single-photon-detectors
 permalink: single-photon-detectors
