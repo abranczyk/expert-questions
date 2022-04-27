@@ -1,7 +1,7 @@
 ---
 name: Expert question submission
 about: For submitting a new set of expert questions
-title: Expert Questions Submission
+title: Insert title, e.g. Single photon detectors
 labels: question submission
 assignees: abranczyk
 
