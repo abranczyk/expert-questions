@@ -19,6 +19,9 @@ e.g. When reading about single-photon detectors, keep the following questions in
 **Tags**
 e.g. quantum-computing quantum-optics single-photon-detectors
 
+**Does this correspond to an existing questions request?**
+If yes, provide the corresponding issue number, e.g., #1
+
 **Acknowledgements**
 You will be given credit for submitting this set of expert questions, but if you would like to acknowledge any additional sources/inspiration, please do so here. 
 
