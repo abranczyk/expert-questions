@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Single Photon Detectors"
-tag: single-photon-detectors
+title: "Single Photon Sources"
+tag: single-photon-sources
 exclude: true 
 ---
