@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Quantum Software"
-categories: quantum-software
-tags: all quantum-software
+categories: quantum-computing quantum-software
+tags: all quantum-computing quantum-software
 permalink: /quantum-software/
 ---
 When reading about quantum software, keep the following questions in mind:
