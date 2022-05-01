@@ -22,4 +22,6 @@ When reviewing papers or trying to put the finishing touches on your own paper, 
 15. When building on previous mathematical results, can the author include an explicit mapping from the previous notation and the current notation?
 16. If anything is done with continuous variables, infinite dimensions, etc., is it possible to first do it with finite sets, countable sets, or finite dimensions?
 
+Titles and abstract should be written to help the reader decide, as soon as possible, if they don't want to read the paper.  The literature is vast and our time to read it is limited, so readers want to be able to eliminate papers as quickly as possible.  Authors have bad incentives here to try to get as many eyeballs on the paper as possible, even if those readers would later regret spending the time reading the paper.
+
 *Contributed by [Jess Riedel](https://jessriedel.com).* 
