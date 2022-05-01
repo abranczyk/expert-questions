@@ -16,5 +16,4 @@ When reading about modifications to quantum mechanics to address the measurement
 7. Does the theory rely on a decomposition of the universe with preferred subsystems? Are these plausibly fundamental?
 8. Is the theory Lorentz invariant?  If not, does a Lorentz invariant generalization seem feasible?
 
-
 *Contributed by [Jess Riedel](https://jessriedel.com).* 
